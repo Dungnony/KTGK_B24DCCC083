@@ -7,7 +7,7 @@ export default function PostList() {
     {
       id: 1,
       title: "Lập trình React cơ bản",
-      author: "Nguyễn Văn A",
+      author: "Ngô Thành Đạt",
       thumbnail: "https://picsum.photos/400/200?random=1",
       content: "Bài viết giới thiệu về React và cách hoạt động...",
       category: "Công nghệ",
@@ -15,10 +15,10 @@ export default function PostList() {
     },
     {
       id: 2,
-      title: "Du lịch Đà Lạt mùa thu",
-      author: "Trần Thị B",
+      title: "Du lịch Đà Nẵng Mùa Thu",
+      author: "Trần lan Anh",
       thumbnail: "https://picsum.photos/400/200?random=2",
-      content: "Một chuyến đi tuyệt vời đến Đà Lạt...",
+      content: "Một chuyến đi tuyệt vời đến Đà Nẵng..",
       category: "Du lịch",
       date: "2025-10-21",
     },
